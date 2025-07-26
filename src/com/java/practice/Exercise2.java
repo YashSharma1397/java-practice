@@ -9,8 +9,6 @@ public class Exercise2 {
         Random random = new Random();
         Scanner sc = new Scanner(System.in);
         byte result = 0;
-        byte roundResult = 0;
-        byte sum = 0;
 
         System.out.println("Welcome to Rock Paper Scissors game !!!");
 
